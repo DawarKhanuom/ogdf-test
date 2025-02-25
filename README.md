@@ -1,6 +1,4 @@
-# OGDF Test Project
-
-# OGDF Test Project
+# OGDF Test Project 
 
 This repository contains a **simple program** to verify the successful installation and functionality of the **OGDF (Open Graph Drawing Framework)**. It reads an input graph file and prints the number of vertices and edges.
 
@@ -21,9 +19,7 @@ For more details, visit the **official OGDF GitHub repository**:
 
 ## 📂 Project Structure
 
-
-## 📂 Project Structure
-
+ 
 
 📁 OGDFProject │── 📁 src │ ├── main.cpp # Main source file for reading and processing graphs │── 📁 build # CMake build directory (generated) │── CMakeLists.txt # CMake configuration file │── input.gml # Sample input graph │── README.md # Documentation
 
